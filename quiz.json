@@ -1,0 +1,57 @@
+[
+    {
+        "id": "q1",
+        "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with the wind. What am I?",
+        "options": [
+            "A whisper",
+            "An echo",
+            "A shadow",
+            "A dream"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "q2",
+        "question": "What has to be broken before you can use it?",
+        "options": [
+            "A code",
+            "A rule",
+            "An egg",
+            "A habit"
+        ],
+        "answer": 3
+    },
+    {
+        "id": "q3",
+        "question": "I'm tall when I'm young, and I'm short when I'm old. What am I?",
+        "options": [
+            "A person",
+            "A tree",
+            "A candle",
+            "A pencil"
+        ],
+        "answer": 3
+    },
+    {
+        "id": "q4",
+        "question": "The more of me you take, the more you leave behind. What am I?",
+        "options": [
+            "Time",
+            "Memories",
+            "Footsteps",
+            "Secrets"
+        ],
+        "answer": 3
+    },
+    {
+        "id": "q5",
+        "question": "What can you catch but not throw?",
+        "options": [
+            "A cold",
+            "A ball",
+            "A song",
+            "A joke"
+        ],
+        "answer": 1
+    }
+]
