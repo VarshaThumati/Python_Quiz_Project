@@ -2,6 +2,8 @@
 
 This is a simple **console-based quiz game** written in Python. It loads multiple-choice questions from a `quiz.json` file and lets players answer them through the terminal.
 
+Find the Repository here - https://github.com/VarshaThumati/Python_Quiz_Project
+
 ---
 
 ## ✅ Features
@@ -29,6 +31,5 @@ This is a simple **console-based quiz game** written in Python. It loads multipl
 <img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/14e05aa9-55b6-4ed4-83e9-30cfa0195840" />
 
 <img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/7b77938b-f5d6-41a5-b717-cd5978546ec9" />
-
 
 
